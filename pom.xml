@@ -11,7 +11,7 @@
         <maven.compiler.target>11</maven.compiler.target>
         <jdbc-mongodb>3.12.2</jdbc-mongodb>
         <slf4j>2.0.0-alpha1</slf4j>
-        <google-gsom>2.8.5</google-gsom>
+        <google-gsom>2.8.9</google-gsom>
     </properties>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
